@@ -12,6 +12,7 @@
 		D10DA4DB2053DCFA000675F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D10DA4D92053DCFA000675F0 /* Main.storyboard */; };
 		D10DA4DD2053DCFA000675F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D10DA4DC2053DCFA000675F0 /* Assets.xcassets */; };
 		D10DA4E02053DCFA000675F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D10DA4DE2053DCFA000675F0 /* LaunchScreen.storyboard */; };
+		D1505C0320585AEE006346F9 /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D1505C0220585AEE006346F9 /* logo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D10DA4DC2053DCFA000675F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D10DA4DF2053DCFA000675F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D10DA4E12053DCFA000675F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1505C0220585AEE006346F9 /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D10DA4D52053DCFA000675F0 /* AppDelegate.swift */,
 				D10DA4D72053DCFA000675F0 /* ViewController.swift */,
 				D10DA4D92053DCFA000675F0 /* Main.storyboard */,
+				D1505C0220585AEE006346F9 /* logo.jpg */,
 				D10DA4DC2053DCFA000675F0 /* Assets.xcassets */,
 				D10DA4DE2053DCFA000675F0 /* LaunchScreen.storyboard */,
 				D10DA4E12053DCFA000675F0 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1505C0320585AEE006346F9 /* logo.jpg in Resources */,
 				D10DA4E02053DCFA000675F0 /* LaunchScreen.storyboard in Resources */,
 				D10DA4DD2053DCFA000675F0 /* Assets.xcassets in Resources */,
 				D10DA4DB2053DCFA000675F0 /* Main.storyboard in Resources */,
